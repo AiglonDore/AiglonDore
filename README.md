@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AiglonDore
 - 👀 I’m interested in computer science and applied mathematics.
 - 🌱 I’m currently learning these two subjects.
-- 💞️ I’m looking to collaborate on C++ projects if I have some time.
+- 💞️ I’m looking to collaborate on C++ or Python projects if I have some time.
 - 📫 How to reach me : thomas.roiseux@outlook.com
 
 <!---
