@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a freelance **Cloud Architect** with a passion
 ## 🌍 About Me
 
 - **Location:** Houilles, France
-- **Languages:** Python, C/C++, CUDA, C#
+- **Languages:** Python, C/C++, CUDA, C#, Java, PHP, JavaScript
 - **Cloud Providers:** AWS, Azure, Google Cloud
 - **Certifications:** [Your Certifications, e.g., AWS Certified Solutions Architect, Google Cloud Professional Architect, etc.]
 - **Email:** [thomas.roiseux@outlook.com](thomas.roiseux@outlook.com)
@@ -50,9 +50,8 @@ I'm currently focusing on:
 
 I'm always open to discussing new projects, potential collaborations, or even just chatting about cloud technologies. Feel free to reach out to me through any of the following channels:
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [https://www.linkedin.com/in/thomas-roiseux](https://www.linkedin.com/in/thomas-roiseux)
+- **Email:** thomas.roiseux@outlook.com
 
 Thank you for visiting my profile, and I look forward to connecting with you!
 
