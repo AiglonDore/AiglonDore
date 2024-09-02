@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a freelance **Cloud Architect** with a passion
   - AZ-5OO - Azure Security Engineer Associate
   - Azure Solutions Architect Expert (on the way)
 - **Email:** thomas.roiseux@outlook.com
-- **Website:** https://www.thomas-roiseux.mathquantlab.com
+- **Website:** https://www.thomas-roiseux.techfuson-innovation.com
 
 ## 💼 Services I Offer
 
@@ -57,7 +57,7 @@ I'm always open to discussing new projects, potential collaborations, or even ju
 
 - **LinkedIn:** https://www.linkedin.com/in/thomas-roiseux
 - **Email:** thomas.roiseux@outlook.com
-- **Malt:** https://www.malt.fr/profile/thomasroiseux (for submitting project proposals)
+- **Malt:** https://www.malt.fr/profile/thomasroiseux
 
 Thank you for visiting my profile, and I look forward to connecting with you!
 
