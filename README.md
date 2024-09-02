@@ -38,8 +38,8 @@ I provide a range of cloud architecture services, including but not limited to:
 
 On this GitHub profile, you'll find a selection of my work, including:
 
-- **[Project 1 Name]**: [Brief description of the project, tech stack used, and key achievements.]
-- **[Project 2 Name]**: [Brief description of the project, tech stack used, and key achievements.]
+- **Financial Data API**: an Azure-based API that provides real-time financial data to clients. The API is built in Python, using Azure Functions, Azure Blob Stroage, and Azure Key Vault. It is available at https://financial-data.mathquantlab.com. Swagger documentation is on the way.
+- **XVA simulation using Monte-Carlo and CUDA**: a high-performance computing (HPC) application that calculates XVA (Counterparty Risk) using Monte-Carlo simulations. The application is based on Python and CUDA to run simulations on GPUs, and is also written in C++ for CPU-based simulations. CUDA C++ code is coming soon.
 - **Open Source Contribution**:
   - **[Rudy Morel's Scattering Spectra](https://github.com/RudyMorel/scattering_spectra)**: a Python package designed to identify patterns in financial data using wavelets. I optimized parts of the code and fixed a bug related to the platform's compatibility.
   - **[Rudy Morel's Shadowing](https://github.com/RudyMorel/scattering_spectra)**: a Python package designed to run Monte-Carlo simulations using the shadowing technique. I contributed to the codebase by optimizing the code and improving the documentation.
