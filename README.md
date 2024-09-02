@@ -4,12 +4,14 @@ Welcome to my GitHub profile! I'm a freelance **Cloud Architect** with a passion
 
 ## 🌍 About Me
 
-- **Location:** Houilles, France
-- **Languages:** Python, C/C++, CUDA, C#, Java, PHP, JavaScript
-- **Cloud Providers:** AWS, Azure, Google Cloud
-- **Certifications:** [Your Certifications, e.g., AWS Certified Solutions Architect, Google Cloud Professional Architect, etc.]
-- **Email:** [thomas.roiseux@outlook.com](thomas.roiseux@outlook.com)
-- **Website:** [https://thomas-roiseux.mathquantlab.com](https://thomas-roiseux.mathquantlab.com)
+- **Location:** Houilles, France but available for remote work worldwide
+- **Languages:** Python, C/C++, CUDA, C#, Java, PHP, JavaScript, OCaml, SQL, HTML, CSS
+- **Cloud Providers:** Azure, AWS, Google Cloud
+- **Certifications:**
+  - AZ-5OO - Azure Security Engineer Associate
+  - Azure Solutions Architect Expert (on the way)
+- **Email:** thomas.roiseux@outlook.com
+- **Website:** https://www.thomas-roiseux.mathquantlab.com
 
 ## 💼 Services I Offer
 
@@ -27,6 +29,7 @@ I provide a range of cloud architecture services, including but not limited to:
 - **Cloud Platforms:** AWS, Azure, Google Cloud
 - **Infrastructure as Code:** Terraform, CloudFormation, Ansible
 - **Containers & Orchestration:** Docker, Kubernetes, ECS
+- **High Performance Computing (HPC):** Slurm, OpenMPI, CUDA, OpenMP, threaded applications
 - **CI/CD:** Jenkins, GitLab CI, GitHub Actions, Azure Pipelines
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, CloudWatch, ElasticSearch
 - **Security:** IAM, VPC, KMS
@@ -37,21 +40,24 @@ On this GitHub profile, you'll find a selection of my work, including:
 
 - **[Project 1 Name]**: [Brief description of the project, tech stack used, and key achievements.]
 - **[Project 2 Name]**: [Brief description of the project, tech stack used, and key achievements.]
-- **[Open Source Contribution]**: [Brief description of your contribution to any open-source projects.]
+- **[Open Source Contribution]**:
+  - **[Rudy Morel's Scattering Spectra](https://github.com/RudyMorel/scattering_spectra)**: a Python package designed to identify patterns in financial data using wavelets. I optimized parts of the code and fixed a bug related to the platform's compatibility.
+  - **[Rudy Morel's Shadowing](https://github.com/RudyMorel/scattering_spectra)**: a Python package designed to run Monte-Carlo simulations using the shadowing technique. I contributed to the codebase by optimizing the code and improving the documentation.
 
 ## 🎯 What I'm Currently Working On
 
 I'm currently focusing on:
 
-- **Project 1**: [Brief description or goals of the project.]
-- **Learning**: [Any new technologies or certifications you're currently working on.]
+- **HPC cluster on Azure**: a compute cluster that runs high-performance computing (HPC) workloads on Azure.
+- **Learning**: Azure Solutions Architect Expert certification.
 
 ## 🤝 Let's Connect
 
 I'm always open to discussing new projects, potential collaborations, or even just chatting about cloud technologies. Feel free to reach out to me through any of the following channels:
 
-- **LinkedIn:** [https://www.linkedin.com/in/thomas-roiseux](https://www.linkedin.com/in/thomas-roiseux)
+- **LinkedIn:** https://www.linkedin.com/in/thomas-roiseux
 - **Email:** thomas.roiseux@outlook.com
+- **Malt:** https://www.malt.fr/profile/thomasroiseux (for submitting project proposals)
 
 Thank you for visiting my profile, and I look forward to connecting with you!
 
