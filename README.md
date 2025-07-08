@@ -56,7 +56,7 @@ I'm currently focusing on:
 I'm always open to discussing new projects, potential collaborations, or even just chatting about cloud technologies. Feel free to reach out to me through any of the following channels:
 
 - **LinkedIn:** https://www.linkedin.com/in/thomas-roiseux
-- **Email:** thomas.roiseux@outlook.com
+- **Email:** thomas.roiseux@techfusion-innovation.com
 - **Malt:** https://www.malt.fr/profile/thomasroiseux
 
 Thank you for visiting my profile, and I look forward to connecting with you!
